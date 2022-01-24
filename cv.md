@@ -1,7 +1,7 @@
 **1. Yana Dyba**    
 2. *email:* yana070419@gmail.com    
 3. *Frontend developer: beginner.*    
- I'm thirsty for new knowledge and would like to start new begginings. My goal is to create society useful products.   
+ I'm thirsty for new knowledge and would like to start new begginings. My goal is to create society useful products!   
 4. *HTML, CSS, Git/GitHub:* [beginner](https://ru.code-basics.com/).  
 5.  :laughing:  
 <!DOCTYPE html> 
