@@ -1,3 +1,3 @@
 # rsschool-cv
 Curriculum vitae    
-https://IaYana.github.io/rsschool-cv/
+https://IaYana.github.io/rsschool-cv/cv
